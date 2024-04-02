@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>TechPhone - Loja de Celulares</title>
+    <link rel="icon" type="image/x-icon" href="c:\Users\Aluno\Desktop\_imagens\download.png">
+</head>
+<body>
+    <h1>TechPhone</h1>
+    <h1>Smartphone Samsung Galaxy S24+ 512GB Creme 5G 12GB</h1>
+ <img height="400" widht="300" src="c:\Users\Aluno\Desktop\_imagens\515Wx515H-TGSA515A-samsung-galaxy-s24-plus-bege-frente-e-verso-1-.jpg">
+ <ul>
+    <p><H2>R$6.199,00</H2></p>
+    <b>à vista ou em até 12x de R$516,58</b>
+    <p><i>O S24+ é inovador em todos os quesitos. Já pensou ter um aparelho que traduz simultaneamente suas ligações convencionais e suas mensagens de textos em diversos aplicativos?
+        Com o Galaxy IA tudo isso é possível, sempre pensando na inovação e praticidade do dia a dia.O aparelho conta com processador Exynos 2400 que proporciona um desempenho excepcional, eficiência energética e conectividade de ponta. Ele é projetado para você que busca o que há de melhor em de tecnologia móvel.
+        Capture as melhores imagens com conjunto de câmera tripla traseira zoom digital até 30x e Óptico 3x traz, e flash na câmera frontal. Registre os melhores momentos a qualquer hora, alta resolução e fotos nítidas.
+        E para guardar as melhores recordações e ter os aplicativos que quiser na palma da mão, o S24+ conta com ampla capacidade de armazenamento, memória total de 512GB*. Seja uma biblioteca extensa de fotos e vídeos de alta resolução, uma coleção de aplicativos, ou arquivos importantes, há espaço de sobra para tudo o que você deseja manter à mão.
+        Galaxy S24+: mais do que um smartphone, uma experiência imersiva no futuro!</i></p>
+    <h3><li>Câmera de Alta Resolução</li></h3>
+    <h3><li>Grande Armazenamento Interno</li></h3>
+    <h3><li>Bateria de Longa Duração</li></h3>
+    <h3><li>Processador Exynos 2400</li></h3>
+ </ul>
+    <h1>Apple iPhone 15 Pro Max (256 GB) — Titânio preto</h1>
+ <img height="400" widht="300" src="c:\Users\Aluno\Desktop\_imagens\81IPGZtygYL._AC_SX679_.jpg">
+ <ul>
+    <p><h2>R$10.162,00</h2></p>
+    <b>Em até 10x R$ 1.016,20 sem juros</b>
+    <p><i>O Apple iPhone 15 Pro Max é um smartphone iOS com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização, representando um dos melhores dispositivos móveis já feitos.O Apple iPhone 15 Pro Max é um smartphone iOS com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização, representando um dos melhores dispositivos móveis já feitos. A tela de 6.7 polegadas coloca esse Apple no topo de sua categoria. A resolução também é alta: 2796x1290 pixel.
+        As funcionalidades oferecidas pelo Apple iPhone 15 Pro Max são muitas e todas top de linha. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS presente no aparelho. Tem também leitor multimídia, videoconferência, e bluetooth. Enfatizamos a excelente memória interna de 1024 GB mas sem a possibilidade de expansão.
+        A excelência deste Apple iPhone 15 Pro Max é completada por uma câmera de 48 megapixels que permite tirar fotos fantásticas com uma resolução de 8000x6000 pixels e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels. A espessura de 8.3 milímetros é realmente ótima e torna o Apple iPhone 15 Pro Max ainda mais espetacular. </i></p>
+    <h3><li>Forjado em Titânio</li></h3>
+    <h3><li>Tela Avançada</li></h3>
+    <h3><li>Recurso Essencial de Segurança</li></h3>
+    <h3><li>Entrada USB-C</li></h3>
+ </ul>
+    <h1>Apple iPhone 13 (128 GB) - Rosa</h1>
+ <img src="c:\Users\Aluno\Desktop\_imagens\41l+tImzWTL._AC_SX342_SY445_.jpg">
+ <ul>
+    <p><h2>R$3.699,00</h2></p>
+    <b>à vista no Pix e boleto (4% off)
+        ou R$ 3.893,68 em até 12x de R$ 324,51 sem juros</b>
+    <p><i>O Apple iPhone 13 é um dos smartphones iOS mais avançados e completos que existem em circulação. Tem um grande display de 6.1 polegadas com uma resolução de 2532x1170 pixel. As funcionalidades oferecidas pelo Apple iPhone 13 são muitas e inovadoras.
+        Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de 512 GB mas sem a possibilidade de expansão.
+        Câmera discreta de 12 megapixel mas que permite ao Apple iPhone 13 tirar fotos de boa qualidade com uma resolução de 4000x3000 pixel e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels. A espessura de 7.7mm torna o Apple iPhone 13 um dos telefones mais completos e finos.</i></p>
+    <h3><li>Tela Super Retina XDR</li></h3>
+    <h3><li>Câmera Dupla de 12MP</li></h3>
+    <h3><li>Câmera Frontal de 12MP</li></h3>
+    <h3><li>Chip Biônico A15</li></h3>
+ </ul>
+</body>
+</html>
